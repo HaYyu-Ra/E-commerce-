@@ -1,0 +1,6 @@
+{
+  "name": "GebeyaGigs",
+  "description": "Ethiopia's smart micro-task and local agent network app with mock cashouts, offline local Room DB, and full strategic development blueprints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
